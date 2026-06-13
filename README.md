@@ -13,7 +13,7 @@ an installable Claude plugin and its own single-plugin marketplace.
 ## Install
 
 ```
-/plugin marketplace add raulk/skills
+/plugin marketplace add raulk/dotagents
 /plugin install raulk-skills@raulk-skills
 ```
 

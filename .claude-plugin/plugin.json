@@ -7,8 +7,8 @@
     "name": "Raúl Kripalani",
     "url": "https://github.com/raulk"
   },
-  "homepage": "https://github.com/raulk/skills",
-  "repository": "https://github.com/raulk/skills",
+  "homepage": "https://github.com/raulk/dotagents",
+  "repository": "https://github.com/raulk/dotagents",
   "license": "MIT",
   "keywords": ["skills", "fable", "emulation", "style", "claude-code"]
 }
