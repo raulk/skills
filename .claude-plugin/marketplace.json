@@ -1,0 +1,19 @@
+{
+  "name": "raulk-skills",
+  "owner": {
+    "name": "Raúl Kripalani"
+  },
+  "metadata": {
+    "description": "Raul's personal collection of Claude Code skills.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "raulk-skills",
+      "source": "./",
+      "description": "Skills collection. Ships fable-5-emulation (a session-wide style and judgment overlay that makes an Opus session approximate Claude Fable 5's conversational character).",
+      "category": "productivity",
+      "tags": ["skills", "fable", "emulation", "style", "overlay"]
+    }
+  ]
+}
