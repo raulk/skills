@@ -1,4 +1,4 @@
-# dotagents
+# skills
 
 Raul's personal agent tooling: [Claude Code](https://docs.claude.com/en/docs/claude-code)
 skills, the model prompting cards and learnings used to write and tune them, and
@@ -13,16 +13,24 @@ Claude plugin, and the repo doubles as its own single-plugin marketplace.
 
 ## Install
 
+With the `skills` CLI (works across agents):
+
 ```
-/plugin marketplace add raulk/dotagents
-/plugin install dotagents@dotagents
+npx skills add raulk/skills
 ```
 
-To try it from a local checkout before it is published, add it by path:
+As a Claude Code plugin:
+
+```
+/plugin marketplace add raulk/skills
+/plugin install skills@skills
+```
+
+To try the plugin from a local checkout before it is published, add it by path:
 
 ```
 /plugin marketplace add /path/to/this/repo
-/plugin install dotagents@dotagents
+/plugin install skills@skills
 ```
 
 The plugin ships everything under `skills/`. Adding a new `skills/<name>/SKILL.md`

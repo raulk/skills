@@ -1,5 +1,5 @@
 {
-  "name": "dotagents",
+  "name": "skills",
   "owner": {
     "name": "Raúl Kripalani"
   },
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "dotagents",
+      "name": "skills",
       "source": "./",
       "description": "Skills collection. Ships fable-5-emulation (a session-wide style and judgment overlay that makes an Opus session approximate Claude Fable 5's conversational character).",
       "category": "productivity",
